@@ -1,0 +1,8 @@
+.Board {
+  margin: 0 auto;
+  display: inline-block;
+  border-spacing: 5px;
+  background-color: #333;
+  padding: 10px;
+  border-radius: 10px;
+}
